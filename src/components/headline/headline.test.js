@@ -28,7 +28,6 @@ describe("Headline component", () => {
       expect(propsErr).toBeUndefined()
     })
   })
-
   describe("Have props", () => {
     let wrapper;
     beforeEach(() => {
